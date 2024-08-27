@@ -23,5 +23,3 @@ def play_guessing_game ():
                 break
         except Exception as ex:
             print(ex)
-
-play_guessing_game()
